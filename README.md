@@ -12,4 +12,7 @@ i9y includes:
  - low-bandwidth and offline usage
  - hiring practices
  - affirming language
+ - easy-to-understand language
  - open licensing
+ - login-free as much as possible
+ - shared login (FB, GM, GH, etc.) when needed
