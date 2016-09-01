@@ -1,6 +1,6 @@
 # i9y 
 
-i9y is inclusivity. It is the sum total of the things we do to make our work available to the largest number of people.
+i9y is inclusivity. It is the sum total of the things we do to make our work available, relevant, usable, and useful to the largest number of people.
 
 i9y includes:
 
@@ -16,3 +16,5 @@ i9y includes:
  - open licensing
  - login-free as much as possible
  - shared login (FB, GM, GH, etc.) when needed
+ - plaintext
+ - user-defined formatting/display
