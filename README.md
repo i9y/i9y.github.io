@@ -18,3 +18,4 @@ i9y includes:
  - shared login (FB, GM, GH, etc.) when needed
  - plaintext
  - user-defined formatting/display
+ - version control
