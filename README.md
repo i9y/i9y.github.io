@@ -20,3 +20,9 @@ i9y includes:
  - user-defined formatting/display
  - version control
  - anonymous access (including tor, freenet, LBRY, etc.)
+
+
+----
+
+Access to information and communications technologies, including the Web, is a **basic human right**.
+[UN Convention on the Rights of Persons with Disabilities](http://www.un.org/disabilities/convention/conventionfull.shtml)
