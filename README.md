@@ -19,3 +19,4 @@ i9y includes:
  - plaintext
  - user-defined formatting/display
  - version control
+ - anonymous access (including tor, freenet, LBRY, etc.)
